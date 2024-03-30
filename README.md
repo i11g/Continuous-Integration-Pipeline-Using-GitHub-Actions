@@ -1,2 +1,3 @@
-This repo contains CI Project
+This repo contains Continuous Integration Project
+
 
