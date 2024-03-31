@@ -1,3 +1,3 @@
-This repo contains Continuous Integration Project
+This repo contains CI on Node.js app (Student Registry app)
 
 
