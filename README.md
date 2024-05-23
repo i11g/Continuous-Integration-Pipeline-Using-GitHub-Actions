@@ -11,7 +11,7 @@ This repository contains CI on Student Registry App using Git Hub Actions.
 * [License](#license) 
 
 ## General Information
-The repo represent a CI project developed on a WEb App using Git Hub Actions    
+The repo represent a CI project developed on a Web App using Git Hub Actions    
 
 ## Technologies Used
 - Git Hub Actions
