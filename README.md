@@ -1,17 +1,15 @@
 # Continuous Integration Project  
-This repository contains CI on Student Registry App using Git Hub Actions.
-
+This repository is demonstrating how to implement CI/CD pipeline on sample app using GitHub Actions. 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 * [License](#license) 
 
 ## General Information
-The repo represent a CI project developed on a Web App using Git Hub Actions    
+This is a project on development of CI/CD pipeline on a Web App using GitHub Actions.    
 
 ## Technologies Used
 - Git Hub Actions
