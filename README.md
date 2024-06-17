@@ -12,7 +12,8 @@ This repository is demonstrating how to implement CI/CD pipeline on sample app u
 This is a project on development of CI/CD pipeline on a Web App using GitHub Actions.    
 
 ## Technologies Used
-- Git Hub Actions
+- C#, ASPN.Core
+- CI system: GitHub Actions
 
 ## Acknowledgements
 - Many thanks to SoftUni
