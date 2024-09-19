@@ -1,5 +1,5 @@
 # Continuous Integration Project  
-This repository is demonstrating how to implement CI/CD pipeline on sample app using GitHub Actions. 
+This repository is demonstrating how to implement CI pipeline on sample app using GitHub Actions. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -9,10 +9,10 @@ This repository is demonstrating how to implement CI/CD pipeline on sample app u
 * [License](#license) 
 
 ## General Information
-This is a project on development of CI/CD pipeline on a Web App using GitHub Actions.    
+This is a project on development of CI pipeline on a Web App using GitHub Actions.    
 
 ## Technologies Used
-- C#, ASP.NET Core;
+- Java Script;
 - CI system: GitHub Actions;
 
 ## Acknowledgements
