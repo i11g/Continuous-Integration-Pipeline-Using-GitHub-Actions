@@ -1,5 +1,5 @@
 # Continuous Integration Project  
-This repository is demonstrating how to implement CI pipeline on sample app using GitHub Actions. 
+This repository is demonstrating how to implement CI pipeline on Web App using GitHub Actions. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -9,7 +9,7 @@ This repository is demonstrating how to implement CI pipeline on sample app usin
 * [License](#license) 
 
 ## General Information
-This is a project on development of CI pipeline on a Web App using GitHub Actions.    
+This is a project on development of CI workflow on a Web App using GitHub Actions for testing automation.    
 
 ## Technologies Used
 - Java Script;
